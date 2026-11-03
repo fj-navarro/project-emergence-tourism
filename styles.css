@@ -20,3 +20,5 @@ main h1, main h2, main h3, main h4, .abstract .block-title { font-weight: 700; }
 /* Consistent document section styling. */
 main .header-section-number { color: #000; }
 #abstract > h1, #abstract > h2 { border-bottom: 0; padding-bottom: 0; }
+
+.header-section-number, .toc-section-number { color: #000 !important; }
