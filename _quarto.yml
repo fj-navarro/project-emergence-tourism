@@ -19,7 +19,8 @@ format:
     css: styles.css
     toc: true
     toc-depth: 3
-    number-sections: false
+    number-depth: 3
+    number-sections: true
     lang: en
 execute:
   enabled: false
