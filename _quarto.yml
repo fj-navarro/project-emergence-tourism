@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+website:
+  title: "Emergence in Tourism Systems"
+  site-url: https://zinkea.com/projects/emergence-tourism/
+  navbar:
+    title: false
+    left:
+      - href: https://zinkea.com/
+        text: Home
+      - href: https://zinkea.com/resources/
+        text: Resources
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    lang: en
+execute:
+  enabled: false
