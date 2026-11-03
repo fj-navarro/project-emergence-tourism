@@ -1,11 +1,8 @@
 ---
 title: "Rethinking the Analytical Foundations of Tourism Systems Research"
 subtitle: "An Emergence–Diffusion Framework for Policymaking"
-author:
-  - name: Francisco J. Navarro-Meneses
-    affiliation: Faculty of Economics and Business, Nebrija University
 ---
-## Abstract {.unnumbered}
+# Abstract {.unnumbered}
 Tourism research increasingly recognizes the complex, adaptive, and
 interconnected nature of tourism systems, yet many analytical approaches
 remain centered on identifying relationships among variables and

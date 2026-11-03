@@ -16,3 +16,7 @@ h1, h2, h3, h4 { color: var(--zinkea-green); }
 /* Shared document heading style: bold, with an unnumbered Abstract. */
 main h1, main h2, main h3, main h4, .abstract .block-title { font-weight: 700; }
 .abstract .block-title { text-transform: none; font-size: 1.5rem; line-height: 1.2; margin: 1.5rem 0 1rem; }
+
+/* Consistent document section styling. */
+main .header-section-number { color: #000; }
+#abstract > h1, #abstract > h2 { border-bottom: 0; padding-bottom: 0; }
