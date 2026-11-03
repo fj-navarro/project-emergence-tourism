@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: ed384c7f-57fe-407b-b2a4-abfc0ba61af2
+      url: https://project-emergence-tourism.netlify.app
