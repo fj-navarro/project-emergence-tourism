@@ -5,8 +5,7 @@ author:
   - name: Francisco J. Navarro-Meneses
     affiliation: Faculty of Economics and Business, Nebrija University
 ---
-## Abstract
-
+## Abstract {.unnumbered}
 Tourism research increasingly recognizes the complex, adaptive, and
 interconnected nature of tourism systems, yet many analytical approaches
 remain centered on identifying relationships among variables and
@@ -36,7 +35,7 @@ broadens the capacity to explain systemic evolution and transformation.
 **Keywords:** Tourism Systems; Emergence; Diffusion; Complexity Science;
 Causal Inference; Overtourism; Tourism Policymaking.
 
-## Introduction
+# Introduction
 
 Tourism research has become increasingly methodologically sophisticated.
 Contemporary empirical studies make extensive use of regression-based
@@ -156,7 +155,7 @@ contributions, scope conditions, research and policy implications, and
 limitations. The paper concludes by synthesizing its principal
 contributions and implications for advancing tourism systems research.
 
-## Causal Explanation and the Foundations of Emergence
+# Causal Explanation and the Foundations of Emergence
 
 The limitations discussed in this paper do not question the value of
 quantitative methods or causal inference in tourism research. Rather,
@@ -167,7 +166,7 @@ inference is therefore essential, while recognizing that even credible
 estimates of specified causal effects do not, by themselves, explain how
 tourism systems emerge, evolve, and transform.
 
-### Statistical Modelling and Causal Inference
+## Statistical Modelling and Causal Inference
 
 Tourism studies routinely examine the "drivers", "determinants",
 "antecedents", "impacts", or "effects" of observed phenomena. This
@@ -258,7 +257,7 @@ When these conditions are met, statistical modelling can provide
 credible estimates of specified causal effects. The remaining question
 is what such estimates leave unexplained about the wider tourism system.
 
-### Beyond Bounded Causal Effects
+## Beyond Bounded Causal Effects
 
 Suppose that a study credibly estimates the effect of short-term-rental
 regulation on housing prices or of an access restriction on congestion.
@@ -319,7 +318,7 @@ emergence--diffusion perspective thus situates credible causal estimates
 within a broader explanation of how open, multilevel, and adaptive
 tourism systems form and transform.
 
-### Identifying Emergent Properties
+## Identifying Emergent Properties
 
 Emergence is often described through the proposition that a system is
 more than the sum of its parts (Holland, 1998). Although suggestive,
@@ -380,7 +379,7 @@ account must specify how interactions generate system-level
 configurations and how those configurations subsequently condition
 action---the task developed by the emergence--diffusion framework.
 
-## The Emergence--Diffusion Framework for Tourism Systems
+# The Emergence--Diffusion Framework for Tourism Systems
 
 The emergence--diffusion framework connects two complementary
 explanatory processes: the generation of system-level configurations
@@ -389,7 +388,7 @@ their patterns and consequences. Their recursive relationship provides a
 basis for analyzing tourism systems as relational, historically
 evolving, and open.
 
-### Relational and Temporal Emergence
+## Relational and Temporal Emergence
 
 Building on the distinction between emergent and aggregate properties,
 the framework conceptualizes emergence as a relational and temporal
@@ -452,7 +451,7 @@ explaining how the resulting patterns and consequences propagate among
 connected components and settings requires the complementary concept of
 diffusion.
 
-### Diffusion and Contextual Transformation
+## Diffusion and Contextual Transformation
 
 Whereas emergence explains how system-level configurations form,
 diffusion concerns how the patterns and consequences they generate
@@ -532,7 +531,7 @@ requires identifying transmission pathways and mechanisms while
 distinguishing propagation from common external influences or
 independent developments.
 
-### Integrated Analytical Architecture
+## Integrated Analytical Architecture
 
 Emergence and diffusion can now be integrated into a recursive
 analytical architecture. Within a focal tourism system, interactions
@@ -639,7 +638,7 @@ consequences transmitted to connected settings. Operationalizing this
 architecture requires evidence and methods capable of addressing these
 different explanatory tasks.
 
-### Operationalizing the Emergence--Diffusion Framework
+## Operationalizing the Emergence--Diffusion Framework
 
 The emergence--diffusion framework does not prescribe a single
 analytical method. Its operationalization requires defining the
@@ -710,7 +709,7 @@ explanation of how system-level phenomena emerge, propagate, and
 transform. The following section illustrates this analytical approach
 through overtourism.
 
-## Overtourism as an Emergent and Diffusive Policy Problem
+# Overtourism as an Emergent and Diffusive Policy Problem
 
 Overtourism illustrates the relevance of the emergence--diffusion
 framework because comparable visitor volumes may generate different
@@ -733,7 +732,7 @@ intervention and evaluation. As a conceptual illustration rather than an
 empirical application, it demonstrates the framework\'s explanatory
 potential and methodological requirements.
 
-### Overtourism as an Emergent Configuration
+## Overtourism as an Emergent Configuration
 
 Overtourism is frequently approached as a problem of excessive demand
 relative to destination carrying capacity. Although visitor volume is
@@ -804,7 +803,7 @@ performance. This analysis establishes the basis for examining how
 tourism pressures and responses subsequently propagate through the
 destination.
 
-### Overtourism as a Diffusive Phenomenon
+## Overtourism as a Diffusive Phenomenon
 
 While emergence explains how overtourism develops as a system-level
 configuration, diffusion examines how tourism pressures, behaviors,
@@ -868,7 +867,7 @@ destinations. Combined with emergence, diffusion helps explain how
 policy interventions can modify existing configurations while generating
 adaptive responses and consequences elsewhere in the tourism system.
 
-### Emergence-Diffusion in Tourism Policymaking
+## Emergence-Diffusion in Tourism Policymaking
 
 Integrating emergence and diffusion extends tourism policy analysis
 beyond estimating intervention effects towards understanding how
@@ -976,14 +975,14 @@ understanding the configurations that interventions sustain or transform
 and the distribution of their consequences across the wider tourism
 system.
 
-## Discussion
+# Discussion
 
 This section examines the framework's contributions and explanatory
 advantages, its conditions of applicability, and its implications for
 tourism research and policymaking, before addressing limitations and
 priorities for further development.
 
-### Analytical Contributions
+## Analytical Contributions
 
 The principal contribution of the emergence--diffusion framework lies in
 integrating three explanatory problems that tourism research frequently
@@ -1044,7 +1043,7 @@ alternative approaches. Its contribution therefore rests not on invoking
 complexity itself, but on developing explanations whose mechanisms,
 assumptions, and empirical implications can be examined and compared.
 
-### Scope Conditions and Analytical Boundaries
+## Scope Conditions and Analytical Boundaries
 
 The emergence--diffusion framework is particularly relevant when tourism
 phenomena exhibit substantial interdependence, heterogeneous adaptation,
@@ -1118,7 +1117,7 @@ unnecessary complexity. The relevant criterion is explanatory adequacy,
 not the number of variables, actors, analytical levels, or methods
 incorporated.
 
-### Research and Policy Implications
+## Research and Policy Implications
 
 For tourism research, the framework encourages analytical designs in
 which methods are selected according to their explanatory functions and
@@ -1174,7 +1173,7 @@ participate in determining acceptable outcomes. Participation,
 transparency, and accountability remain integral to evaluating the
 consequences of tourism governance.
 
-### Limitations and Future Research
+## Limitations and Future Research
 
 The emergence--diffusion framework remains a conceptual and
 methodological proposal whose empirical explanatory value has yet to be
@@ -1236,7 +1235,7 @@ more precise and defensible explanations of emergence, diffusion, and
 transformation, and identifies the conditions under which these
 explanations improve tourism research and policymaking.
 
-## Conclusion
+# Conclusion
 
 Tourism research increasingly recognizes the complex, adaptive, and
 interconnected nature of tourism systems, yet established analytical
@@ -1279,8 +1278,7 @@ their capacity to explain how tourism systems generate, propagate, and
 transform systemic phenomena, thereby supporting more comprehensive
 research and more anticipatory and adaptive governance.
 
-## References
-
+# References {.unnumbered}
 Ali, F., Koseoglu, M. A., Okumus, F., Putra, E. D., Yildiz, M., & Dogan,
 I. C. (2021). Is lodging research suffering from methods bias? An
 assessment of published research during 1990-2016. *Journal of
