@@ -12,3 +12,7 @@ h1, h2, h3, h4 { color: var(--zinkea-green); }
 .paper-table tbody tr:nth-child(even) { background: #eeeee7; }
 .paper-table[aria-label="Table 7"] table { min-width: 1100px; }
 @media print { .paper-table { overflow: visible; } }
+
+/* Shared document heading style: bold, with an unnumbered Abstract. */
+main h1, main h2, main h3, main h4, .abstract-title { font-weight: 700; }
+.abstract-title { text-transform: none; font-size: 1.5rem; line-height: 1.2; margin: 1.5rem 0 1rem; }
