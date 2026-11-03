@@ -22,3 +22,8 @@ main .header-section-number { color: #000; }
 #abstract > h1, #abstract > h2 { border-bottom: 0; padding-bottom: 0; }
 
 .header-section-number, .toc-section-number { color: #000 !important; }
+
+/* Match paper numbering and keep figure sources below full-width images. */
+.header-section-number::after, .toc-section-number::after { content: "."; }
+main img.research-figure { display: block; width: 100%; max-width: 100%; height: auto; margin: 1rem 0; }
+main p:has(> img.research-figure) { width: 100%; }

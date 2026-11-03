@@ -497,10 +497,10 @@ receiving systems, and contribute to further diffusion.
 
 **Figure 1. Diffusion processes and mechanisms in tourism systems.**
 
-![](image1.png){width="6.270138888888889in"
-height="4.7027777777777775in"}
+![](image1.png){.research-figure width="100%"}
 
 Source: own elaboration.
+
 
 Diffusion can also generate feedback that reinforces or transforms the
 configurations from which it originates. For example, short-term rental
@@ -549,8 +549,10 @@ configuration, propagation, and contextual transformation.
 **Figure 2. The emergence--diffusion framework for tourism systems
 analysis.**
 
-![](image2.png){width="6.029878608923885in"
-height="4.262915573053369in"}Source: own elaboration.
+![](image2.png){.research-figure width="100%"}
+
+Source: own elaboration.
+
 
 Analysis begins by defining a focal system. This may be a destination,
 protected area, platform ecosystem, mobility corridor, or policy
@@ -686,8 +688,10 @@ an iterative process of systemic explanation and validation.
 **Figure 3. Operationalization of the emergence--diffusion framework in
 tourism systems research.**
 
-![](image3.png){width="6.270138888888889in"
-height="2.984027777777778in"}Source: own elaboration.
+![](image3.png){.research-figure width="100%"}
+
+Source: own elaboration.
+
 
 Policy analysis integrates the three levels by examining how
 interventions modify existing configurations, induce adaptation, and
@@ -752,10 +756,10 @@ transform a system-level configuration.
 
 **Figure 4. Reframing overtourism through the emergence paradigm.**
 
-![](image4.png){width="6.467924321959755in"
-height="3.2339621609798774in"}
+![](image4.png){.research-figure width="100%"}
 
 Source: own elaboration.
+
 
 Applying the framework begins by identifying the relevant components and
 interactions (Level 1). Visitor choices, digital visibility, and tourism
@@ -823,10 +827,10 @@ modified, or attenuated.
 
 **Figure 5. Reframing overtourism through the diffusion perspective.**
 
-![](image5.png){width="6.6in"
-height="3.3in"}
+![](image5.png){.research-figure width="100%"}
 
 Source: own elaboration.
+
 
 Applying the diffusion perspective requires identifying what propagates,
 through which connections, and by what mechanisms (Level 3). Spatial
